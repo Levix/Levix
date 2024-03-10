@@ -7,7 +7,7 @@ Web Developer
 * 🌍  I'm based in China
 * 🖥️  See my portfolio at [Levix's zone.](http://www.levix.zone)
 * ✉️  You can contact me at [levix.dev@gmail.com](mailto:levix.dev@gmail.com)
-* 🚀  I'm currently working on [Sangfor](http://www.sangfor.com/)
+* 🚀  My Telegram Channel is [Levix 空间站](https://t.me/synctoai)
 
 ### Skills
 
